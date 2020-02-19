@@ -1,0 +1,387 @@
+#navbar{
+overflow: hidden;
+background-color: rgb(61, 102, 168);
+
+}
+#navbar a {
+	float: middle;
+	display: block;
+	color: green;
+	text-align: left;
+	padding: 14px;
+	text-decoration: none; 
+}
+
+.content {
+	padding: 16px;
+}
+
+.sticky{
+position: fixed;
+top: 0;
+width: 100%;
+}
+
+Body {
+	background-color: #06FFD9;
+}
+.sticky + .content {
+	padding: 60px;
+}
+
+#navbar a:hover {
+font-style: italic;
+}
+
+#navbar a:active {
+	font-style: #0a0709
+}
+
+@font-face {
+	font-family: Blazed;
+	src:url(Blazed.ttf);
+}
+
+p {
+	font-family: Blazed;
+}
+
+
+#navbar a {
+float: left;
+display: block; 
+color: #ff0000;
+text-align: center;
+padding: 14px;
+text-decoration: none
+}
+
+.content {
+padding: 16px;
+}
+
+.sticky {
+position: fixed;
+top: 0;
+width: 100%;
+}
+
+.sticky + .content {
+	padding-top: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
